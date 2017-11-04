@@ -4,5 +4,5 @@ Vambits are small DIY desktoys designed to be laser cutted in acrylic. The desig
 
 ## Sizes
 
-`191mm x 191mm` for template.dlc.latest
-`800mm x 400mm` for template.large.latest
+- `191mm x 191mm` for template.dlc.latest
+- `800mm x 400mm` for template.large.latest
